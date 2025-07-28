@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm SamoA Alamdari
+# Hello World! 👋 I'm SaMoA Alamdari
 
 ### 📊 Data Science Enthusiast | Financial Analyst | Python Developer
 
