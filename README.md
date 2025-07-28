@@ -78,9 +78,9 @@ Interactive visualization of spending patterns
 
 I'm always open to discussing data projects, finance topics, or Python development:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your.email@example.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle)](https://www.kaggle.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](http://www.linkedin.com/in/samoa-alamdari-a8aa981a7)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:contact@samoaalamdari.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle)](https://www.kaggle.com/samoaalamdari)
 
 ---
 
